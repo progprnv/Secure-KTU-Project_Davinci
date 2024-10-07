@@ -10,3 +10,4 @@ The fixing of these vulnerabilities is necessary as soon as possible to prevent 
 
 ## How?
 The project aims at maintaining the vulnerability assessment reports and findings about the ktu website.
+
