@@ -1,7 +1,7 @@
 
-## Project-Davinci is undertaken by GEC Thrissur
+## Project-Davinci is a program by TinkerHub GEC Thrissur
 
-## Secure-KTU: Enhancing Website Security of www.ktu.edu.in/
+## Our project: Secure-KTU: Enhancing Website Security of www.ktu.edu.in/
 ## Why?
 The "Secure-KTU" project is aimed to do the vulnerability assessment of KTU website as per NCIIPC RVDP rules and protect it from various security threats such as data breaches, unauthorized access, and cyberattacks. With increasing concerns over website vulnerabilities, this project ensures that KTU's online services and user data can be safeguarded by fixing these vulnerabilities.
 
